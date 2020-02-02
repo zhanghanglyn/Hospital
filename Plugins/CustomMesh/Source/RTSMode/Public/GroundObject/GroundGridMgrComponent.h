@@ -4,7 +4,7 @@
 #include "GroundUtil.h"
 #include "Components/ActorComponent.h"
 #include "GridMgr.h"
-#include "NestedArray.h"
+//#include "NestedArray.h"
 #include "GroundGridMgrComponent.generated.h"
 
 /* 
