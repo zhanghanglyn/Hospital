@@ -1,0 +1,52 @@
+{
+	"DataArray": [
+		{
+			"DataID": 1,
+			"ParentID": -1,
+			"ChildID": 2,
+			"PosX": 41,
+			"PosY": 20,
+			"LinePosX": 93,
+			"LinePosY": 50,
+			"C_AID": -1,
+			"P_AID": 1,
+			"SkillName": ""
+		},
+		{
+			"DataID": 2,
+			"ParentID": 1,
+			"ChildID": 5,
+			"PosX": 43,
+			"PosY": 102,
+			"LinePosX": 93,
+			"LinePosY": 132,
+			"C_AID": 1,
+			"P_AID": 5,
+			"SkillName": ""
+		},
+		{
+			"DataID": 5,
+			"ParentID": 2,
+			"ChildID": 6,
+			"PosX": 43,
+			"PosY": 184,
+			"LinePosX": 93,
+			"LinePosY": 214,
+			"C_AID": 5,
+			"P_AID": 3,
+			"SkillName": ""
+		},
+		{
+			"DataID": 6,
+			"ParentID": 5,
+			"ChildID": -1,
+			"PosX": 44,
+			"PosY": 274,
+			"LinePosX": 94,
+			"LinePosY": 304,
+			"C_AID": 3,
+			"P_AID": -1,
+			"SkillName": ""
+		}
+	]
+}

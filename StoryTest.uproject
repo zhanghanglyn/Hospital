@@ -1,0 +1,28 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "4.23",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "StoryTest",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine",
+        "UMG",
+        "CoreUObject"
+      ]
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "TestSlate",
+      "Enabled": true
+    },
+    {
+      "Name": "CustomMesh",
+      "Enabled": true
+    }
+  ]
+}
